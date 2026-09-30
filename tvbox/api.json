@@ -1,5 +1,5 @@
 {
-    "spider": "https://codeberg.org/ksu_yan/TVboxwiring/raw/branch/main/tvbox/spider.jar",
+    "spider": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/spider.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
@@ -676,7 +676,7 @@
             "key": "红果短剧",
             "name": "红果 • 短剧",
             "type": 3,
-            "api": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/py/红果短剧.py",
+            "api": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/py/红果短剧.py",
             "genre": "shortdrama"
         },
         {
@@ -840,7 +840,7 @@
             "name": "剧圈 • 影视",
             "type": 3,
             "api": "csp_XYQHiker",
-            "ext": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/XYQHiker/剧圈影视.json"
+            "ext": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/XYQHiker/剧圈影视.json"
         },
         {
             "key": "1905",
@@ -963,17 +963,17 @@
         },
         {
             "key": "路漫漫",
-            "name": "路漫漫 • 动漫",https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/
+            "name": "路漫漫 • 动漫",https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/
             "type": 3,
-            "api": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/js/drpy2.min.js",
-            "ext": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/js/路漫漫.js"
+            "api": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/js/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/js/路漫漫.js"
         },
         {
             "key": "去看吧",
             "name": "去看吧 • 动漫",
             "type": 3,
-            "api": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/js/drpy2.min.js",
-            "ext": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/js/去看吧.js"
+            "api": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/js/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/js/去看吧.js"
         },
         {
             "key": "荐片",
@@ -1028,7 +1028,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/XYQHiker/电影港.json"
+            "ext": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/XYQHiker/电影港.json"
         },
         {
             "key": "阿里云盘",
@@ -1389,7 +1389,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "api": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/py/爱听音乐.py"
+            "api": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/py/爱听音乐.py"
         },
         {
             "key": "网络直播",
@@ -1498,7 +1498,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/json/少儿教育.json",
+                "json": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/json/少儿教育.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1515,7 +1515,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/json/小学课堂.json",
+                "json": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/json/小学课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1532,7 +1532,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/json/初中课堂.json",
+                "json": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/json/初中课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1549,7 +1549,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://codeberg.org/ksu_yan/TVboxwiring/src/branch/main/tvbox/json/高中课堂.json",
+                "json": "https://raw.githubusercontent.com/dysq1117/GniriWxobVT/refs/heads/main/tvbox/json/高中课堂.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
